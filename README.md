@@ -6,6 +6,8 @@ AC voltage sensor [zmpt101b](https://pdf1.alldatasheet.com/datasheet-pdf/view/11
 ![](images/ZMPT101B.jpg)  |  ![](images/SCT013.jpg)
 # Block Diagram
 ![](images/BLock.png)
+## Circuit Diagram
+![](images/IOT.jpg)
 ## Mobile Dashboard
 <p align="center">
   
