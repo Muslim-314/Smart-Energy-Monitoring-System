@@ -1,5 +1,5 @@
 # Smart-Energy-Monitoring-System
-This project has been inspired by [how to electronic](https://how2electronics.com/iot-based-electricity-energy-meter-using-esp32-blynk/)</br>
+The repo contains an implementation of smart energy meter using [ESP32](https://roboeq.ir/files/id/4034/name/ESP32%20MODULE.pdf/) and [Arduino Cloud](https://cloud.arduino.cc/). This project has been inspired by [how to electronic](https://how2electronics.com/iot-based-electricity-energy-meter-using-esp32-blynk/)</br>
 Following sensors are used to monitor voltages and Current:</br>
 AC voltage sensor [zmpt101b](https://pdf1.alldatasheet.com/datasheet-pdf/view/1131993/ETC2/ZMPT101B.html)        |  Current sensor [SCT-013](https://bc-robotics.com/datasheets/yhdc.pdf)
 :-------------------------:|:-------------------------:
